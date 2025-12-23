@@ -1,0 +1,98 @@
+name,age,hypertension,heart_disease,smoking_history,bmi,HbA1c_level,blood_glucose_level
+Olivia Chen,58,1,1,never,38.9,8.9,139
+Liam Garcia,73,1,1,No Info,25.9,4.4,223
+Emma Martinez,65,1,1,never,31.3,7,198
+Noah Rodriguez,65,1,1,current,37.3,8.3,278
+Ava Smith,40,1,1,current,33.1,4.5,145
+William Johnson,73,0,1,never,20.8,8,291
+Sophia Williams,29,0,0,never,32.4,8.8,111
+James Brown,69,1,1,No Info,38.4,8.9,269
+Isabella Jones,21,0,0,never,36.1,4.3,101
+Logan Miller,38,0,0,never,21.8,7.3,288
+Mia Davis,67,1,0,never,32,6.9,140
+Benjamin Wilson,56,0,0,former,38.7,8.2,267
+Charlotte Moore,29,0,0,former,25.2,6.4,206
+Elijah Taylor,49,1,1,never,39.3,7.1,179
+Amelia Anderson,46,0,0,No Info,23.4,7.1,287
+Lucas Thomas,74,0,0,No Info,36.8,5,146
+Harper Jackson,63,0,0,never,30.4,8.1,228
+Henry White,23,0,0,never,20.6,6.5,143
+Evelyn Harris,43,0,0,No Info,31.6,4.2,201
+Alexander Martin,70,0,0,ever,30.1,8.8,162
+Abigail Thompson,28,0,0,current,21.8,6.8,199
+Michael Garcia,68,0,0,No Info,29.5,8.1,271
+Emily Martinez,57,1,1,never,21.9,8.1,131
+Daniel Rodriguez,71,0,0,former,28.8,5.4,140
+Ella Smith,61,0,0,No Info,25.2,8.1,235
+Matthew Johnson,38,0,0,never,27.1,6.5,141
+Madison Williams,35,0,0,not current,34.8,8.8,154
+Aiden Brown,29,0,0,former,33.2,5.5,159
+Chloe Jones,67,0,0,never,27,4.2,193
+Joseph Miller,63,1,1,never,24,8.8,172
+Victoria Davis,49,1,0,No Info,24,7.9,183
+David Wilson,63,0,0,No Info,26.6,8.2,266
+Grace Moore,45,0,0,current,24.8,4.1,221
+Samuel Taylor,45,0,0,never,28,8.4,213
+Riley Anderson,30,0,0,never,29.4,4.2,127
+Aria Thomas,71,0,0,No Info,29.4,7.8,247
+John Jackson,43,0,0,No Info,23,7.8,231
+Zoe White,51,0,0,never,23,8.1,174
+Nathan Harris,78,0,0,current,29.8,8.8,111
+Lily Martin,51,0,0,never,28.1,5.2,192
+Christopher Thompson,42,0,0,former,21.2,7.4,202
+Hannah Garcia,74,1,1,No Info,28.1,8.6,187
+Andrew Martinez,63,1,0,never,26.9,8.5,134
+Addison Rodriguez,61,0,0,No Info,22.1,6.5,232
+Joshua Smith,51,0,0,No Info,32.3,6.2,201
+Natalie Johnson,74,0,0,never,33.5,8.1,234
+Ryan Williams,61,0,0,never,28,7.4,198
+Aubrey Brown,62,0,0,never,29.6,7.2,192
+Isaac Jones,61,0,0,never,27.2,8,248
+Ellie Miller,51,0,0,No Info,27.6,7.6,236
+Caleb Davis,78,0,0,never,33.9,7.1,208
+Audrey Wilson,47,0,0,No Info,31.9,7.8,276
+Jack Moore,61,0,0,No Info,28,7.4,198
+Leah Taylor,62,0,0,former,29.6,7.2,192
+Julian Anderson,61,0,0,never,27.2,8,248
+Stella Thomas,51,0,0,former,27.6,7.6,236
+Levi Jackson,78,0,0,No Info,33.9,7.1,208
+Hazel White,47,0,0,never,31.9,7.8,276
+Christian Harris,69,0,0,No Info,26.5,4.2,143
+Nora Martin,21,0,0,never,24.3,8,147
+Hunter Thompson,38,0,0,current,27.1,6.5,141
+Scarlett Garcia,35,0,0,not current,34.8,8.8,154
+Isaiah Martinez,29,0,0,current,33.2,5.5,159
+Penelope Rodriguez,67,0,0,former,27,4.2,193
+Thomas Smith,63,1,1,not current,24,8.8,172
+Luna Johnson,49,1,0,ever,24,7.9,183
+Charles Williams,63,0,0,not current,26.6,8.2,266
+Layla Brown,45,0,0,No Info,24.8,4.1,221
+Aaron Jones,45,0,0,never,28,8.4,213
+Paisley Miller,30,0,0,No Info,29.4,4.2,127
+Connor Davis,71,0,0,No Info,29.4,7.8,247
+Camila Wilson,43,0,0,No Info,23,7.8,231
+Jeremiah Moore,51,0,0,never,23,8.1,174
+Skylar Taylor,78,0,0,not current,29.8,8.8,111
+Eli Anderson,51,0,0,never,28.1,5.2,192
+Violet Thomas,42,0,0,never,21.2,7.4,202
+Ezekiel Jackson,74,1,1,No Info,28.1,8.6,187
+Claire White,63,1,0,never,26.9,8.5,134
+Grayson Harris,61,0,0,never,22.1,6.5,232
+Bella Martin,51,0,0,former,32.3,6.2,201
+Jaxon Thompson,74,0,0,No Info,33.5,8.1,234
+Aurora Garcia,61,0,0,No Info,28,7.4,198
+Luke Martinez,62,0,0,former,29.6,7.2,192
+Lucy Rodriguez,61,0,0,never,27.2,8,248
+Lincoln Smith,51,0,0,No Info,27.6,7.6,236
+Anna Johnson,78,0,0,never,33.9,7.1,208
+Mateo Williams,47,0,0,former,31.9,7.8,276
+Samantha Brown,69,0,0,current,26.5,4.2,143
+Owen Jones,21,0,0,ever,24.3,8,147
+Caroline Miller,67,0,0,No Info,32,6.9,140
+Asher Davis,56,0,0,never,38.7,8.2,267
+Genesis Wilson,29,0,0,never,25.2,6.4,206
+Leo Moore,49,1,1,former,39.3,7.1,179
+Sarah Taylor,46,0,0,never,23.4,7.1,287
+Adam Anderson,74,0,0,never,36.8,5,146
+Eleanor Thomas,63,0,0,never,30.4,8.1,228
+Wyatt Jackson,23,0,0,never,20.6,6.5,143
